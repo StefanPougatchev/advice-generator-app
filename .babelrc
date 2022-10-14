@@ -1,0 +1,4 @@
+// This plugin adds support for server-side rendering, minification of styles, and a nicer debugging experience.
+{
+  "plugins": ["babel-plugin-styled-components"]
+}
