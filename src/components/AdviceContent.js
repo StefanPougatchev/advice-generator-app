@@ -31,7 +31,6 @@ const AdviceNumberContainer = styled.p`
 `;
 
 const AdviceTextContent = styled.p`
-  flex-wrap: wrap;
   font-family: 'Manrope';
   font-style: normal;
   font-weight: 800;
