@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click to see in browser](https://stefanpougatchev.github.io/adivce-generator-app)
+- Live Site URL: [Click to see in browser](https://stefanpougatchev.github.io/advice-generator-app)
 
 ## My process
 
